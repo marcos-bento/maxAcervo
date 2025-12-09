@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": 1,
+    "title": "Dashboard de Vendas",
+    "description": "Painel responsivo com gráficos simulados para acompanhamento de métricas semanais.",
+    "category": "Web",
+    "tags": ["React", "Vite", "Charts"],
+    "link": "https://exemplo.com/dashboard",
+    "repo": "https://github.com/exemplo/dashboard"
+  },
+  {
+    "id": 2,
+    "title": "Landing Page Criativa",
+    "description": "Página de lançamento com hero animado e formulário de captura fictício.",
+    "category": "UI",
+    "tags": ["Design", "Animação", "CSS"],
+    "link": "https://exemplo.com/landing",
+    "repo": "https://github.com/exemplo/landing"
+  },
+  {
+    "id": 3,
+    "title": "API Explorer",
+    "description": "Interface para explorar endpoints de uma API imaginária e visualizar respostas.",
+    "category": "Ferramentas",
+    "tags": ["React", "UX", "APIs"],
+    "link": "https://exemplo.com/api-explorer",
+    "repo": "https://github.com/exemplo/api-explorer"
+  },
+  {
+    "id": 4,
+    "title": "Coleção de Componentes",
+    "description": "Biblioteca modular de cards e modais reutilizáveis para prototipação rápida.",
+    "category": "Biblioteca",
+    "tags": ["UI", "Componentes", "Figma"],
+    "link": "https://exemplo.com/componentes",
+    "repo": "https://github.com/exemplo/componentes"
+  }
+]
