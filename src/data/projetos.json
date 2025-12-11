@@ -8,7 +8,7 @@
     "github": "https://github.com/marcos-bento/max-curriculo/",
     "thumbnail": "/assets/thumbs/maxcurriculo.png",
     "categoria": "Ferramenta",
-    "tecnologias": ["React", "TypeScript", "HTML to PDF", "Styled Components"],
+    "tecnologias": ["React", "TypeScript", "HTML to PDF"],
     "tags": ["currículo", "PDF", "personalização"],
     "ano": 2025,
     "status": "Online"
