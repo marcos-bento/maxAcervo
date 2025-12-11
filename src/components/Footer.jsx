@@ -1,10 +1,13 @@
-﻿import React from 'react'
+import React from 'react'
 
-const Footer = () => (
-  <footer className="footer" id="contato">
-    <p>Feito com cuidado para organizar o portfólio.</p>
-    <small>© {new Date().getFullYear()} MaxAcervo</small>
-  </footer>
-)
+function Footer() {
+  return (
+    <footer className="portfolio-footer">
+      <div className="page-container footer-content">
+        <p>© {new Date().getFullYear()} Marcos Bento</p>
+      </div>
+    </footer>
+  )
+}
 
 export default Footer

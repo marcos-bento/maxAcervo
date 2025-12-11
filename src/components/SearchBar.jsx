@@ -1,13 +1,12 @@
-﻿import React from 'react'
+import React from 'react'
 
 function SearchBar({ value, onChange }) {
   return (
     <div className="search-bar">
-      <label className="eyebrow" htmlFor="search">Buscar projetos</label>
       <input
-        id="search"
+        className="search-input"
         type="text"
-        placeholder="Procure por nome, tecnologia ou palavra-chave"
+        placeholder="Buscar por título, tecnologia ou palavra-chave..."
         value={value}
         onChange={(event) => onChange(event.target.value)}
       />

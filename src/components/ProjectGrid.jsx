@@ -1,7 +1,7 @@
-﻿import React from 'react'
+import React from 'react'
 import ProjectCard from './ProjectCard'
 
-function ProjectGrid({ projects, onSelect }) {
+function ProjectGrid({ projects, onSelectProject }) {
   if (!projects.length) {
     return <p className="muted">Nenhum projeto encontrado.</p>
   }
@@ -9,7 +9,7 @@ function ProjectGrid({ projects, onSelect }) {
   return (
     <div className="project-grid">
       {projects.map((project) => (
-        <ProjectCard key={project.id} project={project} onSelect={onSelect} />
+        <ProjectCard key={project.id} project={project} onClick={onSelectProject} />
       ))}
     </div>
   )
