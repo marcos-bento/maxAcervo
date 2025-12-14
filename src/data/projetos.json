@@ -42,6 +42,20 @@
     "status": "Online"
   },
   {
+    "id": "max-acervo",
+    "titulo": "Max Acervo",
+    "descricaoCurta": "Portfólio de projetos e funcionalidades desenvolvidas em React.",
+    "descricaoDetalhada": "Aplicativo web que exibe uma coleção de projetos pessoais, cada um com descrição, tecnologias usadas e links para demonstração e código-fonte. Inclui funcionalidades de busca e filtragem por categoria e tags.",
+    "url": "https://max-acervo.vercel.app/",
+    "github": "https://github.com/marcos-bento/maxAcervo",
+    "thumbnail": "/assets/thumbs/maxacervo.png",
+    "categoria": "Portfólio",
+    "tecnologias": ["React", "Javascript", "HTML5", "CSS3"],
+    "tags": ["portfólio", "projetos", "react"],
+    "ano": 2025,
+    "status": "Online"
+  },
+  {
     "id": "conceptcorp",
     "titulo": "Site Conceptcorp 2025",
     "descricaoCurta": "Site institucional feito sob demanda para empresa de mobiliário corporativo com design moderno e responsivo.",

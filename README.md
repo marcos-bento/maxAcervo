@@ -117,9 +117,9 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Marcos Bento**
 
-- LinkedIn: [marcos-bento](https://linkedin.com/in/marcos-bento)
+- LinkedIn: [marcos-bento](https://www.linkedin.com/in/marcosluizdev)
 - GitHub: [@marcos-bento](https://github.com/marcos-bento)
-- Email: marcos.bento@email.com
+- Email: marcos.x.marcos@hotmail.com
 
 ---
 
