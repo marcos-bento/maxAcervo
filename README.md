@@ -125,3 +125,14 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ⭐ Se gostou do projeto, dê uma estrela no repositório!
     
+
+## 🏆 Próximas atualizações
+
+- Ajustar MaxCalc para permitir Funcionalidades;
+- Publicar funcionalidades do MaxCalc
+- Acrescentar novos calculos no MaxCalc
+- Criar o MaxMyResolution
+- Criar um jogo
+- Modo /Portfólio, exibir cursos Alura;
+
+---
