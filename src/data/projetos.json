@@ -109,5 +109,33 @@
     "tags": ["jogo", "memória", "diversão"],
     "ano": 2023,
     "status": "Online"
+  },
+  {
+    "id": "max-calc-regra-de-3",
+    "titulo": "MaxCalc: Regra de 3 Simples",
+    "descricaoCurta": "Calculadora web focada em resolver problemas de Regra de 3 Simples.",
+    "descricaoDetalhada": "Permite aos usuários inserir três valores conhecidos para calcular o quarto valor desconhecido usando a Regra de 3 Simples. Inclui validação de entrada, opção direta ou indireta e uma interface amigável.",
+    "url": "https://max-calc.vercel.app/#regra-de-3-simples",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxcalcRegrade3.png",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": ["calculadora", "regra de 3"],
+    "ano": 2024,
+    "status": "Online"
+  },
+  {
+    "id": "max-calc-regra-de-3-composta",
+    "titulo": "MaxCalc: Regra de 3 Composta",
+    "descricaoCurta": "Calculadora web focada em resolver problemas de Regra de 3 Composta.",
+    "descricaoDetalhada": "Permite aos usuários inserir múltiplos valores conhecidos para calcular o valor desconhecido usando a Regra de 3 Composta. Inclui validação de entrada, opção direta ou indireta e uma interface amigável.",
+    "url": "https://max-calc.vercel.app/#regra-de-3-composta",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxcalcRegrade3Comp.png",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": [],
+    "ano": 2024,
+    "status": "Online"
   }
 ]
