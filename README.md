@@ -17,6 +17,30 @@ Um portfólio interativo e moderno para exibir meus projetos de desenvolvimento 
 - **🎨 Visual Atraente**: Gradientes dinâmicos e thumbnails personalizadas
 - **🔗 Links Diretos**: Acesso rápido ao GitHub e deploy de cada projeto
 - **⚡ Performance Otimizada**: Carregamento rápido com Vite
+- **🧩 Categoria Funcionalidades**: Sessão dedicada para links de funcionalidades fracionadas.
+
+### Como adicionar uma funcionalidade fracionada
+
+1. Inclua um item em `src/data/projetos.json` com `categoria`: `"Funcionalidades"`.
+2. Preencha `url`/`github` com o link direto da funcionalidade e uma `thumbnail` opcional.
+
+Exemplo:
+```json
+{
+  "id": "minha-funcionalidade",
+  "titulo": "Minha Funcionalidade",
+  "descricaoCurta": "Breve resumo da feature.",
+  "descricaoDetalhada": "Detalhes rápidos da funcionalidade destacada.",
+  "url": "https://exemplo.com",
+  "github": "https://github.com/usuario/repositorio",
+  "thumbnail": "/assets/thumbs/minha-funcionalidade.png",
+  "categoria": "Funcionalidades",
+  "tecnologias": ["React"],
+  "tags": ["feature"],
+  "ano": 2025,
+  "status": "Online"
+}
+```
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -128,7 +152,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🏆 Próximas atualizações
 
-- Ajustar MaxCalc para permitir Funcionalidades;
 - Publicar funcionalidades do MaxCalc
 - Acrescentar novos calculos no MaxCalc
 - Criar o MaxMyResolution
