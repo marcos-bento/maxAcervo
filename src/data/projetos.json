@@ -137,5 +137,48 @@
     "tags": [],
     "ano": 2024,
     "status": "Online"
+  },
+  {
+    "id": "max-calc-fracoes",
+    "titulo": "MaxCalc: Frações",
+    "descricaoCurta": "Calculadora web focada em resolver operações com frações, incluindo adição, subtração, multiplicação e divisão.",
+    "descricaoDetalhada": "Permite aos usuários inserir frações para realizar operações matemáticas. Uma interface amigável para facilitar o uso.",
+    "url": "https://max-calc.vercel.app/#fracoes",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxCalcfracoes.png",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": [],
+    "ano": 2024,
+    "status": "Online"
+  },
+  {
+    "id": "max-calc-area",
+    "titulo": "MaxCalc: Área de Figuras Geométricas",
+    "descricaoCurta": "Calculadora web focada em calcular a área de diversas figuras geométricas, como triângulos, quadrados, retângulos e círculos.",
+    "descricaoDetalhada": "Permite aos usuários inserir as dimensões necessárias para calcular a área de diferentes figuras geométricas. A interface é projetada para ser intuitiva e fácil de usar, facilitando o processo de cálculo.",
+    "url": "https://max-calc.vercel.app/#calculo-area",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxCalcArea.jpg",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": [],
+    "ano": 2024,
+    "status": "Online"
+  },
+  {
+    "id": "max-calc-volume",
+    "titulo": "MaxCalc: Volume de Sólidos Geométricos",
+    "descricaoCurta": "Calculadora web focada em calcular o volume de sólidos geométricos, como cubos, cilindros e esferas.",
+    "descricaoDetalhada": "Permite aos usuários inserir as dimensões necessárias para calcular o volume de diferentes sólidos geométricos. A interface é projetada para ser intuitiva e fácil de usar, facilitando o processo de cálculo.",
+    "url": "https://max-calc.vercel.app/#calculo-volume",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxCalcVolume.jpg",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": [],
+    "ano": 2024,
+    "status": "Online"
   }
+  
 ]
