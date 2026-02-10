@@ -179,6 +179,22 @@
     "tags": [],
     "ano": 2024,
     "status": "Online"
+  },
+  {
+    "id": "max-calc-converte-numeros",
+    "titulo": "MaxCalc: Converte Números",
+    "descricaoCurta": "Calculadora web focada em converter números entre diferentes sistemas, como binário, decimal e hexadecimal.",
+    "descricaoDetalhada": "Permite aos usuários inserir um número em um sistema específico e escolher o sistema para o qual desejam converter. A interface é projetada para ser intuitiva e fácil de usar, facilitando o processo de conversão.",
+    "url": "https://max-calc.vercel.app/#conversao-numeros",
+    "github": "https://github.com/marcos-bento/max-calc",
+    "thumbnail": "/assets/thumbs/maxCalcConverteNumeros.png",
+    "categoria": "Funcionalidades",
+    "tecnologias": ["Javascript", "HTML5", "CSS3"],
+    "tags": [],
+    "ano": 2024,
+    "status": "Online"
   }
+
+
   
 ]
